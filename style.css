@@ -173,11 +173,14 @@
   margin-left: 10%;
   margin-top: 14%;
 }
-#main-text2{
-    font-size: 350%;font-weight: bolder;
+#main-text2 {
+  font-size: 350%;
+  font-weight: bolder;
 }
-#sub-text2{
-    padding: 25px 25px 25px 10px; font-size: 150%; opacity: 40%;
+#sub-text2 {
+  padding: 25px 25px 25px 10px;
+  font-size: 150%;
+  opacity: 40%;
 }
 #button {
   color: white;
@@ -203,14 +206,17 @@
   flex-direction: column;
   align-items: center;
   padding: 20px;
-
 }
-#title-text{  font-weight: bold; font-size: 200%; color: #423636;}
+#title-text {
+  font-weight: bold;
+  font-size: 200%;
+  color: #423636;
+}
 #subtitle3 {
   height: 50px;
   width: 380px;
-opacity: 50%;
-text-align: center;
+  opacity: 50%;
+  text-align: center;
   color: #423636;
   padding: 10px 20px 20px 20px;
 }
